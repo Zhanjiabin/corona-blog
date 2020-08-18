@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zhanjiabin/vuepress-theme-vdoing.git"
+    "url": "git+https://github.com/xugaoyi/vuepress-theme-vdoing.git"
   },
   "dependencies": {
     "@better-scroll/core": "^2.0.0-beta.6",

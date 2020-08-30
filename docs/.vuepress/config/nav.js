@@ -8,7 +8,7 @@ module.exports = [
                 text: 'Java',
                 link: '/pages/java_base/',
                 items: [
-                    {text: 'Java基础语法', link: '/pages/java_base/'},
+                    {text: 'Java基础', link: '/pages/java_base/'},
                     {text: 'Spring', link: '/pages/spring/'},
                     {text: 'Spring Boot', link: '/pages/spring_boot/'},
                     {text: 'Spring Cloud', link: '/pages/spring_cloud/'},

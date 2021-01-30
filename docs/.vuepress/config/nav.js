@@ -44,11 +44,11 @@ module.exports = [
                 ]
             },
             {
-                text: 'MySQL',
-                link: '/pages/mysql_base/',
+                text: '数据库',
+                link: '/pages/data_base/',
                 items: [
-                    {text: 'MySQL基础', link: '/pages/mysql_base/'},
-                    {text: 'MySQL性能调优', link: '/pages/mysql_optimize/'}
+                    {text: 'MySQL', link: '/pages/mysql/'},
+                    {text: 'MongoDB', link: '/pages/mongodb/'}
                 ]
             }
         ]

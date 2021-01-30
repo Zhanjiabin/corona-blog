@@ -12,7 +12,8 @@ module.exports = [
                     {text: 'Spring', link: '/pages/spring/'},
                     {text: 'Spring Boot', link: '/pages/spring_boot/'},
                     {text: 'Spring Cloud', link: '/pages/spring_cloud/'},
-                    {text: 'Netty', link: '/pages/netty/'}
+                    {text: 'Netty', link: '/pages/netty/'},
+                    {text: 'Redis', link: '/pages/redis/'}
                 ]
             },
             {

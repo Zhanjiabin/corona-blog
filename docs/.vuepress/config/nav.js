@@ -64,7 +64,7 @@ module.exports = [
                 items: [
                     {text: 'HTML', link: '/pages/html_base/'},
                     {text: '移动端', link: '/pages/html_mobile/'},
-                    {text: '网龙性能调优问题记录1',link: '/pages/html_optimize_log1'}
+                    {text: '工作随手记',link: '/pages/html_optimize_log1'}
                 ]
             },
             {

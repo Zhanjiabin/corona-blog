@@ -48,8 +48,8 @@ module.exports = [
                 text: '数据库',
                 link: '/pages/data_base/',
                 items: [
-                    {text: 'MySQL基础知识', link: '/pages/mysql/base'},
-                    {text: 'MySQL是怎样运行的学习笔记', link: '/pages/mysql/how_to_run'},
+                    {text: 'MySQL基础知识', link: '/pages/mysql/base/'},
+                    {text: 'MySQL是怎样运行的学习笔记', link: '/pages/mysql/how_to_run/'},
                     {text: 'MongoDB', link: '/pages/mongodb/'}
                 ]
             }
